@@ -1,1 +1,1 @@
-Triggering Vercel redeploy.
+Trigger Vercel redeploy
